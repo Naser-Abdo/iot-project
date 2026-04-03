@@ -1,3 +1,3 @@
-# iot-project
-IoT course project
 # IoT Project
+
+This is my IoT course project.
